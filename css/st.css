@@ -1,0 +1,126 @@
+*{
+    font-family: montserrat;
+}
+body{
+    background :#f1fbff;
+}
+.navbar-brand{
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.navbar-brand span{
+    color : #ffc107;
+    margin-right: 5px;
+}
+.nav-item .nav-link{
+  
+    font-size: 20px;
+}
+.carousel-caption{
+    margin-bottom: 200px;
+}
+.carousel-caption h5{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.carousel-caption p{
+    width: 60%;
+    margin : auto;
+    line-height : 35px;
+    margin-bottom: 10px;
+}
+.sectionpadding{
+    margin: 200px; auto;
+    padding-top: 100px;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+   
+}
+footer{
+    background: #e8491d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+p{
+    font-size: 30px;
+}
+h2{
+
+   
+    font-size: 50px;
+    text-align: center;
+  
+}
+.pp{
+    font-size: 20px;
+}
+.p1{
+    font-size: 20px;
+}
+.p5{
+    font-size: 20px;
+}
+.hh{
+    text-align: center;
+    font-size: 30px;
+}
+.cc{
+    text-align: center;
+    font-size: 30px;
+}
+.mg{
+    text-align: center;
+    font-size: 30px;
+}
+.ma{
+    text-align: center;
+    font-size: 30px;
+}
+.pa{
+    font-size: 10px;
+}
+h2{
+    text-decoration: underline;
+}
+.h{
+    text-decoration: none;
+}
+h3{
+    font-size: 30px;
+}
+h6{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.ps{
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify;
+    
+}
+.oo{
+    font-size: 15px;
+
+}
+.o1{
+    font-size: 15px;
+}
+.o2{
+    font-size: 15px;
+    
+}
+.o3{
+    font-size: 15px;
+
+}
+h{
+    text-decoration: none;
+}
